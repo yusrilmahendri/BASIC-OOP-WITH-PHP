@@ -1,2 +1,1 @@
-# BASICOOPPHP
- first commit
+KONSEP OOP WITH PHP
